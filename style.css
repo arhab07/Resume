@@ -186,20 +186,10 @@ color: #848c90;
     font-size: 16px;
 } 
 
-a i {
-    color:#0f8baadc;
-   
-    border-width: 1px;
-    display: block;
-   
-    transition: background-color 2s, transform 2s;
+.text a i{
+    color: #03a9f4;
 }
 
-a i:hover{
-    background-color: #ccd1ff;
-    
-    transform: rotate(180deg);
-}
 
 .skills .box{
 position: relative;
