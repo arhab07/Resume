@@ -254,6 +254,11 @@ align-items: center;
     .interest ul{
         grid-template-columns: repeat(1,1fr);
     }
+     .about .box .year_company {
+       
+         min-width: auto;
+
+    } 
 
 }
 
